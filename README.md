@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=250&section=header&text=Caleb%20K.%20Adjeoda&fontSize=50&fontColor=292F36&fontAlignY=35&desc=Software%20Engineer&descAlignY=55&descSize=20" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=250&section=header&text=Caleb%20Adjeoda&fontSize=50&fontColor=292F36&fontAlignY=35&desc=Software%20Engineer&descAlignY=55&descSize=20" alt="Header" />
 </div>
 
 <div align="center">
@@ -7,7 +7,7 @@
     <b>TypeScript • Python • NestJS • Flutter • Next.js</b>
   </p>
   <p>
-    📍 Lomé, Togo &nbsp; | &nbsp; ✉️ <a href="mailto:contact@calebadjeoda.dev">contact@calebadjeoda.dev</a> &nbsp; | &nbsp; 🌐 <a href="https://calebadjeoda.dev">calebadjeoda.dev</a>
+    Lomé, Togo &nbsp; | &nbsp; <a href="mailto:contact@calebadjeoda.dev">contact@calebadjeoda.dev</a> &nbsp; | &nbsp; <a href="https://calebadjeoda.dev">calebadjeoda.dev</a>
   </p>
   <br />
   <p>
@@ -44,8 +44,8 @@
 ### Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ReedBelca10&show_icons=true&hide_border=true&bg_color=292F36&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReedBelca10&layout=compact&hide_border=true&bg_color=292F36&title_color=00D9FF&text_color=ffffff" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ReedBelca10&show_icons=true&hide_border=true&bg_color=292F36&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ReedBelca10&layout=compact&hide_border=true&bg_color=292F36&title_color=00D9FF&text_color=ffffff" alt="Top Languages" width="48%" />
 </div>
 
 <div align="center">
