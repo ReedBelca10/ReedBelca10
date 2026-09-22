@@ -1,3 +1,7 @@
+<div align="right">
+  <b><a href="README.md">English</a> | <a href="README.fr.md">Français</a></b>
+</div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=250&section=header&text=Caleb%20Adjeoda&fontSize=50&fontColor=292F36&fontAlignY=35&desc=Software%20Engineer&descAlignY=55&descSize=20" alt="Header" />
 </div>
