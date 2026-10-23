@@ -26,7 +26,7 @@
 - I specialize in engineering full-stack web and mobile systems utilizing modern ecosystems.
 - I am a highly motivated professional dedicated to architectural stability, writing clean, robust, and well-tested code that scales.
 - When I'm not coding or optimizing database queries, I enjoy designing modern interfaces in Figma, analyzing complex system workflows, or diving into technical documentation.
-- I also like to fuel my curiosity by reading, exploring philosophical concepts, creating digital content, or unwinding with a good gaming session.
+- I also like to fuel my curiosity by reading, exploring philosophical concepts, playing chess, or unwinding with a good gaming session.
 
 <br />
 
