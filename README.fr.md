@@ -26,7 +26,7 @@
 - Je me spécialise dans l'ingénierie de systèmes web et mobiles full-stack en utilisant des écosystèmes modernes.
 - Je suis un professionnel très motivé, dédié à la stabilité architecturale, écrivant un code propre, robuste, bien testé et évolutif.
 - Quand je ne code pas ou n'optimise pas des requêtes de base de données, j'aime concevoir des interfaces modernes sur Figma, analyser des flux de travail de systèmes complexes, ou me plonger dans la documentation technique.
-- J'aime aussi nourrir ma curiosité en lisant, en explorant des concepts philosophiques, en créant du contenu numérique, ou en me détendant avec une bonne session de jeu vidéo.
+- J'aime aussi nourrir ma curiosité en lisant, en explorant des concepts philosophiques, en jouant des parties d'échecs, ou en me détendant avec une bonne session de jeu vidéo.
 
 <br />
 
