@@ -68,5 +68,5 @@
 <br />
 
 <div align="center">
-  <i>"J'adore créer des plateformes impactantes qui résolvent des problèmes concrets et repousser continuellement les limites de mes capacités techniques."</i>
+  <i>"Les algorithmes peuvent réécrire le monde."</i>
 </div>
