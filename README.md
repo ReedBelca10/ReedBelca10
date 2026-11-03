@@ -68,5 +68,5 @@
 <br />
 
 <div align="center">
-  <i>"Algorithms can rewrite the world."</i>
+  <i>"I think algorithms can rewrite the world."</i>
 </div>
