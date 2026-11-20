@@ -62,5 +62,5 @@
 ---
 
 <div align="center">
-  <em>“I love building impactful platforms that solve real-world problems and continuously pushing the boundaries of my technical capabilities.”</em>
+  <em>“I think algorithms can rewrite the world.”</em>
 </div>

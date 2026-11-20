@@ -62,5 +62,5 @@
 ---
 
 <div align="center">
-  <em>« J'aime créer des plateformes utiles qui résolvent des problèmes concrets et repousser sans cesse les limites de mes compétences techniques. »</em>
+  <em>« Je pense que les algorithmes peuvent réécrire le monde. »</em>
 </div>
